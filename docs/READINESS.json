@@ -1,0 +1,3427 @@
+{
+  "sourceVersion": "0.35.0",
+  "basePath": "/manifelator-yokohama/",
+  "files": 1134,
+  "bytes": 109382238,
+  "digest": "f1e7b6f4174c69246ea280d85436596336f32901084f21c733dacc7a45f28ad5",
+  "issues": [
+    {
+      "path": "activity.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "activity.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "app.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "app.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "citizens/citizens.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "dialogue.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "geography.js",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "github-publication.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "github-publication.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "import-workspace.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "import-workspace.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "manifestos/vocab.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "manifestos/vocab.html",
+      "kind": "root-reference"
+    },
+    {
+      "path": "municipality.js",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/catalog.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/catalog.ttl",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-00de22bfad508f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-00de22bfad508f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-00fce2e1d7579b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-00fce2e1d7579b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-01151da7c87b05/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-01151da7c87b05/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-019ab1a4e238b8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-019ab1a4e238b8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0220aedfbfafec/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0220aedfbfafec/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-031dbc48bbe6c3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-031dbc48bbe6c3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-044c51a1f15f75/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-044c51a1f15f75/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-04e5080c07575e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-04e5080c07575e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-04f24676671a57/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-04f24676671a57/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-05e1e00bfa4de0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-05e1e00bfa4de0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-076748d50fa8dc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-076748d50fa8dc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-077803ba8c6f03/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-077803ba8c6f03/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-07e4c2157a7bf3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-07e4c2157a7bf3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0875f77461672f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0875f77461672f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a1a3e6258e284/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a1a3e6258e284/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a2cdc1f9388db/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a2cdc1f9388db/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a3d54e1a8f9e3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0a3d54e1a8f9e3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0af86c045f31e4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0af86c045f31e4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0b450a178fa7ed/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0b450a178fa7ed/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0c01b71483152c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0c01b71483152c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0c9aff3681c3f4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0c9aff3681c3f4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0df2f09bc8c9bc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0df2f09bc8c9bc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0ee0ff1c433f85/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0ee0ff1c433f85/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0ff6884c5630e6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-0ff6884c5630e6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-104100657d8461/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-104100657d8461/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-11059218b7727b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-11059218b7727b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-11075c7eee3823/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-11075c7eee3823/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-12eca04ec18dc4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-12eca04ec18dc4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-132f802f52f463/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-132f802f52f463/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-139658b6cb7636/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-139658b6cb7636/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-15a8c1362db0fb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-15a8c1362db0fb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-168cff12f26106/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-168cff12f26106/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-19e5c6d5eb9a74/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-19e5c6d5eb9a74/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1b77a4e6fda842/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1b77a4e6fda842/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1b9d8a4180c612/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1b9d8a4180c612/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1c8763d092c2a5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1c8763d092c2a5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1cc93099019c14/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1cc93099019c14/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ccb7cd76e14b8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ccb7cd76e14b8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ddde60eaed788/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ddde60eaed788/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1fab684683dc72/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1fab684683dc72/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1fe591216a583c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1fe591216a583c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ff96100f2487b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-1ff96100f2487b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-21372c520ad7b0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-21372c520ad7b0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-21b1292b697e21/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-21b1292b697e21/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-241a860b567b97/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-241a860b567b97/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2498ef3c1c7d28/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2498ef3c1c7d28/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-251a5513004805/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-251a5513004805/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-252efc9ae9509c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-252efc9ae9509c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-25d289f5cc3973/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-25d289f5cc3973/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26920c403c5096/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26920c403c5096/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26c5e408f21137/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26c5e408f21137/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26e4394e926335/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-26e4394e926335/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-27121abc45b37c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-27121abc45b37c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-283eb848071128/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-283eb848071128/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-284127f153cd22/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-284127f153cd22/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-29695ed8f64243/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-29695ed8f64243/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-29fc99cf4c1efb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-29fc99cf4c1efb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2a1154ab450692/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2a1154ab450692/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2aac322703c8b2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2aac322703c8b2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2acf7d4697962d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2acf7d4697962d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2b9345399d33e8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2b9345399d33e8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2d0bd9b53f13da/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2d0bd9b53f13da/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2d9282f48d424a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2d9282f48d424a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2db8988b3077d9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2db8988b3077d9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2df7fa498ced49/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2df7fa498ced49/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2e02505335c197/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2e02505335c197/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2e88040840c330/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2e88040840c330/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2fee9a6c1a594e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-2fee9a6c1a594e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-303e37ba3eb86a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-303e37ba3eb86a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-30a18545bf8195/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-30a18545bf8195/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-30d0dfa8b06285/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-30d0dfa8b06285/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3132b2f70ab544/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3132b2f70ab544/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-321ad62b9a359b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-321ad62b9a359b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-322e1688fc1ef0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-322e1688fc1ef0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3256abf28d7e2f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3256abf28d7e2f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3275494a16a2f3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3275494a16a2f3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-327a83777224ea/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-327a83777224ea/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3360cd2ce78f17/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3360cd2ce78f17/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3389c5e2c2e772/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3389c5e2c2e772/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-33ef66d7131106/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-33ef66d7131106/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-34820a19ed7a1b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-34820a19ed7a1b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3488f854f8364d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3488f854f8364d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-34f73d3a35998c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-34f73d3a35998c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-36fe15c409c8dc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-36fe15c409c8dc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3700084b702136/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3700084b702136/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37154e516f51c2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37154e516f51c2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37b3e86e8c31d8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37b3e86e8c31d8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37d2310db41f55/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-37d2310db41f55/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-382cba46d4dbba/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-382cba46d4dbba/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3884a454d20668/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3884a454d20668/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3a63ad5e62e359/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3a63ad5e62e359/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3b7ae6953c8b05/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3b7ae6953c8b05/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3bb8a72fbe0007/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3bb8a72fbe0007/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3ca79ae6d71bb3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3ca79ae6d71bb3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3d592c5988a8cf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3d592c5988a8cf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3de328fb7754d2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-3de328fb7754d2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-429f42a872a97c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-429f42a872a97c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-42e49e7e6f799a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-42e49e7e6f799a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-43c1756e19144a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-43c1756e19144a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-43ed4545b70e9e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-43ed4545b70e9e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-466e1cf03b35ab/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-466e1cf03b35ab/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-47f3acb33a31bb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-47f3acb33a31bb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-48c865bbd0eb2f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-48c865bbd0eb2f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4b6c7529a58a1f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4b6c7529a58a1f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4b6f766c5ed3dd/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4b6f766c5ed3dd/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4c9026617ca452/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4c9026617ca452/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d432220740339/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d432220740339/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d52080493b674/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d52080493b674/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d5369ae9ff361/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4d5369ae9ff361/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4decdcc7b7d35a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4decdcc7b7d35a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4f555338dc0fd1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4f555338dc0fd1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4facfdb3d7e20c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4facfdb3d7e20c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4fdc408f436bfc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-4fdc408f436bfc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-508369cf689108/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-508369cf689108/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5172123fb1d154/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5172123fb1d154/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-518e2944fb1914/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-518e2944fb1914/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-51d17cc8dbe662/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-51d17cc8dbe662/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-52232d7dbffc97/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-52232d7dbffc97/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-52621c4cfdc0a4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-52621c4cfdc0a4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53579264889b0a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53579264889b0a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53841fb79a3437/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53841fb79a3437/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53e2d27209d8b2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-53e2d27209d8b2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-54ac5d23bff3bf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-54ac5d23bff3bf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5612e8263be482/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5612e8263be482/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-56d1edf05b4339/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-56d1edf05b4339/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5740c9f64ca7f9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5740c9f64ca7f9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-575e27e2ee509c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-575e27e2ee509c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-576337a77cfed9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-576337a77cfed9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5966bd1fb24ada/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5966bd1fb24ada/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ae2dc48c6c584/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ae2dc48c6c584/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5b2b3a3f758806/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5b2b3a3f758806/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5b5058e2d9e757/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5b5058e2d9e757/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ba1ab7f469bbc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ba1ab7f469bbc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5c216b9b8f9e38/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5c216b9b8f9e38/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5c3886657585ea/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5c3886657585ea/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ccf7537115302/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ccf7537115302/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5d2e64aef7de3a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5d2e64aef7de3a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5d4f5d29e1dc8b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5d4f5d29e1dc8b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5faae706024504/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5faae706024504/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ff7a4393884aa/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-5ff7a4393884aa/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6025ff2859bfe8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6025ff2859bfe8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6042c04bbf6eb4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6042c04bbf6eb4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-61262336c08b6a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-61262336c08b6a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6163140668716d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6163140668716d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-61d19b882f0b77/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-61d19b882f0b77/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-629457944ddef6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-629457944ddef6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-62c5376597a553/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-62c5376597a553/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63001e80489e6e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63001e80489e6e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63494f649bed61/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63494f649bed61/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63c7b28f194565/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-63c7b28f194565/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-64dbaa739f367c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-64dbaa739f367c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-651e31b209a70e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-651e31b209a70e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-66287c81d96018/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-66287c81d96018/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-666ed5c03efcad/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-666ed5c03efcad/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6688c86df350b0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6688c86df350b0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-67b8f8a195d44d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-67b8f8a195d44d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-690c287a1aa7c2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-690c287a1aa7c2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-692f7f69ab7221/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-692f7f69ab7221/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-69a6d1bc229a6a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-69a6d1bc229a6a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6a652a5e47d0ab/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6a652a5e47d0ab/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6a6b2c8e58879d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6a6b2c8e58879d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6b891cfbbf8af6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6b891cfbbf8af6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6c7d38dbe6b6c8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6c7d38dbe6b6c8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6dbc386ec53232/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6dbc386ec53232/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6def28fb4dab9e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6def28fb4dab9e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6e210706b5c2ef/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6e210706b5c2ef/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6e8cc4dc64ea41/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6e8cc4dc64ea41/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6f6fdac5dce9e0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-6f6fdac5dce9e0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-70e119920f9564/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-70e119920f9564/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-710ce2c289ceb6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-710ce2c289ceb6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-712c9cb77131d3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-712c9cb77131d3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-713d60587e406d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-713d60587e406d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-720d2eba402a63/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-720d2eba402a63/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-727b6cde3418c2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-727b6cde3418c2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-727dadef28dc5f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-727dadef28dc5f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-72a3629194fdc6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-72a3629194fdc6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-72f3fb33180867/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-72f3fb33180867/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-74a2b0696052ac/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-74a2b0696052ac/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-75d68aa7a26c8f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-75d68aa7a26c8f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7677343dd855b3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7677343dd855b3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-77c937bbb481cf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-77c937bbb481cf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-77e5a113792dca/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-77e5a113792dca/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-786f792cb56e82/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-786f792cb56e82/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-789e34dd16c4fb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-789e34dd16c4fb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-79e95e0b0ac05e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-79e95e0b0ac05e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7b69cadfd715a8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7b69cadfd715a8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c263b0cb9f882/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c263b0cb9f882/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c4de496c220ec/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c4de496c220ec/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c9756cc593acd/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7c9756cc593acd/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7ce1e7397181a3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7ce1e7397181a3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7d0cbc6c362dcf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7d0cbc6c362dcf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7e77bc0a4631d6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7e77bc0a4631d6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7f96b52e1d8521/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7f96b52e1d8521/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7fe98f7b74b745/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-7fe98f7b74b745/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-80c08b3b1bb87a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-80c08b3b1bb87a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-80f87f146b38df/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-80f87f146b38df/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8120f5b8cfe891/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8120f5b8cfe891/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8164d00a503a19/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8164d00a503a19/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8385423b7c3a1a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8385423b7c3a1a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83abf0bc986f28/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83abf0bc986f28/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83dff359310e16/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83dff359310e16/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83f7b98730b859/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-83f7b98730b859/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8894ebd00813f9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8894ebd00813f9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-88b992fdcbaadf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-88b992fdcbaadf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-88c9fbbb9b28aa/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-88c9fbbb9b28aa/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-890a6180ceead8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-890a6180ceead8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-89bbe660906bc7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-89bbe660906bc7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8ab63e80830560/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8ab63e80830560/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8bf70445fd4fe5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8bf70445fd4fe5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8cad0915b8ccd3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8cad0915b8ccd3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8cbad06babb60c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8cbad06babb60c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d21f98d861c02/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d21f98d861c02/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d42e77a30af13/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d42e77a30af13/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d96399dc6ed46/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8d96399dc6ed46/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8e03235486e507/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8e03235486e507/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8e6b6d1dac43c9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-8e6b6d1dac43c9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-902a38925b5e02/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-902a38925b5e02/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9128ec333ff3ff/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9128ec333ff3ff/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-917c65695e01ea/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-917c65695e01ea/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-91d98f75e6eeb4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-91d98f75e6eeb4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-91e42cbcfed3e5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-91e42cbcfed3e5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-93b2d640d25e21/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-93b2d640d25e21/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-949088154a591e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-949088154a591e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-94d0cd63c3a89c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-94d0cd63c3a89c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-94d56eabb07731/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-94d56eabb07731/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9535aa707a9fbb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9535aa707a9fbb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-96233f7a17b895/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-96233f7a17b895/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-979d80e984b81b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-979d80e984b81b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-97fc31c2365a01/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-97fc31c2365a01/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-983721a7c7c00d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-983721a7c7c00d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9995f68a323f52/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9995f68a323f52/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-99a2921b1d5da3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-99a2921b1d5da3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-99c3e573f04081/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-99c3e573f04081/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9b0bb4fda71668/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9b0bb4fda71668/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c4fce6a29e04b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c4fce6a29e04b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c7ba8925e1023/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c7ba8925e1023/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c82de4e7055b7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9c82de4e7055b7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9cea111007c7eb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9cea111007c7eb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9da030412462e9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9da030412462e9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9e2a1e09054081/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9e2a1e09054081/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9ea374e6b336ab/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-9ea374e6b336ab/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a242a06ce4ebdf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a242a06ce4ebdf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a344213ccf7f74/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a344213ccf7f74/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a37ba9219dcacf/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a37ba9219dcacf/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a544b179e842f0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a544b179e842f0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a563bc2138f5d3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a563bc2138f5d3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a5bdbb50d4407b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a5bdbb50d4407b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a62b439b964523/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a62b439b964523/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a633140aacf613/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a633140aacf613/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a6ebce7c728b07/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a6ebce7c728b07/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a82bbb09c5b8d8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a82bbb09c5b8d8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a84e3cdae65874/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-a84e3cdae65874/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aa49755eaed576/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aa49755eaed576/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aa64f0bba32325/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aa64f0bba32325/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aae7f682748608/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aae7f682748608/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ab2239cf2558c5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ab2239cf2558c5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ab706b5ea226b5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ab706b5ea226b5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac08c565d39c7f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac08c565d39c7f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac595f29c00687/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac595f29c00687/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac97fd6bd63c3a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ac97fd6bd63c3a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-acfd58ee2e57eb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-acfd58ee2e57eb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aea022a3dbc111/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aea022a3dbc111/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aeaf6068dea9ca/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-aeaf6068dea9ca/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-afe963bdaefee1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-afe963bdaefee1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b04f498c144577/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b04f498c144577/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b11a7f5f2540c9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b11a7f5f2540c9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b1c61af948dc8a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b1c61af948dc8a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b1d986ce94d104/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b1d986ce94d104/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b3b6ae0b5e1b69/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b3b6ae0b5e1b69/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b45f7ba238ad30/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b45f7ba238ad30/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b48d8e68af7ae1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b48d8e68af7ae1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b68d442237c421/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b68d442237c421/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b6e69db746e141/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b6e69db746e141/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b72570b227a74c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b72570b227a74c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b75403a5f5b7e2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b75403a5f5b7e2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b7ea4e17998ccc/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b7ea4e17998ccc/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b88cd79ab2b50a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b88cd79ab2b50a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b909b206adb7d6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b909b206adb7d6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b93b57d4c7d446/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-b93b57d4c7d446/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba17826c236271/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba17826c236271/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba4aeede3b5e0d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba4aeede3b5e0d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba9c5296125619/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ba9c5296125619/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bb1363b24441da/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bb1363b24441da/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bc58c78b7bd56f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bc58c78b7bd56f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bc790b9238c8e8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bc790b9238c8e8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bd7cd5e6dfd32b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bd7cd5e6dfd32b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-be67221672ce92/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-be67221672ce92/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-be8ed4682e2b89/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-be8ed4682e2b89/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bf8be423ad0a7e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-bf8be423ad0a7e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c035c775f5f302/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c035c775f5f302/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c163234facea0c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c163234facea0c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c215f922ff3522/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c215f922ff3522/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c2c5458b54e4c9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c2c5458b54e4c9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c2f9078be5f4a9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c2f9078be5f4a9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c3589269d46760/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c3589269d46760/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c43f75bf97adbe/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c43f75bf97adbe/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c4b867f8ef278d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c4b867f8ef278d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c5b01575ce00c9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c5b01575ce00c9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c6848303e96627/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c6848303e96627/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c699dd02580aec/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c699dd02580aec/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c81e5b01a9ba36/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c81e5b01a9ba36/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c850f6c52ee717/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c850f6c52ee717/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c875dae8758e1a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c875dae8758e1a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c960e2470e5e6c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-c960e2470e5e6c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ca6bcd9faba112/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ca6bcd9faba112/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cabaea9b0e0e7e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cabaea9b0e0e7e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cae7d4c80869ae/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cae7d4c80869ae/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cb58f8bfbc8ab6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cb58f8bfbc8ab6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cc19c1edfc1699/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cc19c1edfc1699/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ccaec7063440f1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ccaec7063440f1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cccb9108ee731d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cccb9108ee731d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ce9e8da53af9f1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ce9e8da53af9f1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cef3ae8f59c45f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cef3ae8f59c45f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cf4d3cd39daed2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cf4d3cd39daed2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cfa8202435959f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-cfa8202435959f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d213d086e54e67/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d213d086e54e67/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d35098a414c3aa/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d35098a414c3aa/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4125d7ccb8b11/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4125d7ccb8b11/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4612834f3ae36/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4612834f3ae36/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4691f07c3e95c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4691f07c3e95c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4eda42d589a29/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d4eda42d589a29/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d5038ed2ee0bf3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d5038ed2ee0bf3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d76346027f3270/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d76346027f3270/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d7a3b338d3374a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d7a3b338d3374a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d83cbe0b846e20/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d83cbe0b846e20/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d93562b9e386d3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d93562b9e386d3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d95824377a38fe/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d95824377a38fe/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d9588a2787e3ed/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d9588a2787e3ed/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d96e5f6d16c5d3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d96e5f6d16c5d3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d9ff20ec61ec7e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-d9ff20ec61ec7e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-da0f8766b979ab/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-da0f8766b979ab/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-da47f1743cd5b5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-da47f1743cd5b5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dbe3dfcc97057a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dbe3dfcc97057a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dc057ec26e51be/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dc057ec26e51be/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-deb3828718a404/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-deb3828718a404/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dfa23a16734a9a/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-dfa23a16734a9a/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e01ddae01bcba5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e01ddae01bcba5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e0751b1f461d71/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e0751b1f461d71/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e09610a25a297f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e09610a25a297f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e0bf8ff7e3d73b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e0bf8ff7e3d73b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e1634137b864f0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e1634137b864f0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e214343faa094e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e214343faa094e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e2160c7788bae9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e2160c7788bae9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e2e14576c437b3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e2e14576c437b3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e435d56513f66e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e435d56513f66e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e5da20119e6274/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e5da20119e6274/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6364fa09283aa/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6364fa09283aa/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6a9d6ea6d10e9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6a9d6ea6d10e9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6f80a86a92dd0/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e6f80a86a92dd0/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e708f543e6f987/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e708f543e6f987/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e835acc1df992b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e835acc1df992b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e83825c21497c4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e83825c21497c4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e89fcbee326909/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-e89fcbee326909/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ea69be3b9f3ce7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ea69be3b9f3ce7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eb20843d71aa94/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eb20843d71aa94/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eb25e835cae5e6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eb25e835cae5e6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eba22c04c9f471/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eba22c04c9f471/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ec6a1587aa06ba/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ec6a1587aa06ba/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ed31b65dfc05f6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ed31b65dfc05f6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ee453bd21bfb41/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ee453bd21bfb41/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eea13e6b58b0fe/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eea13e6b58b0fe/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eefa2e46bf8980/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-eefa2e46bf8980/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f0020f1ca800ef/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f0020f1ca800ef/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f15591d67daeff/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f15591d67daeff/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1a92e3ad3bb65/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1a92e3ad3bb65/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1c69f6c61e573/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1c69f6c61e573/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1c7c7ad4006ea/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f1c7c7ad4006ea/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f217213f71164c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f217213f71164c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f2cd1ccf1a25da/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f2cd1ccf1a25da/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f2ff175ca90c5b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f2ff175ca90c5b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f3563f0ab33ee5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f3563f0ab33ee5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f40600a05dab05/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f40600a05dab05/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f40aacd189b184/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f40aacd189b184/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f43e5ed492614d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f43e5ed492614d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f44ea94e56cd81/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f44ea94e56cd81/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f4bd4af363a31d/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f4bd4af363a31d/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f512278e8bd52b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f512278e8bd52b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f7008d4a6e0c77/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f7008d4a6e0c77/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f7fa2699ae4547/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-f7fa2699ae4547/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fa55fb35823a83/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fa55fb35823a83/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fab3b5d1f032ec/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fab3b5d1f032ec/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fb2032fc59d706/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fb2032fc59d706/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fb7bd5e000f936/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fb7bd5e000f936/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc64481b22d15e/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc64481b22d15e/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc7143555ba57c/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc7143555ba57c/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc7469d48427da/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc7469d48427da/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc837e6b3f29e7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fc837e6b3f29e7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fcc75d9bf4307b/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fcc75d9bf4307b/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fe2c8af280dcd6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fe2c8af280dcd6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fee0d63ee961eb/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-fee0d63ee961eb/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ff36f8faec176f/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ff36f8faec176f/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ff9f8942a941d7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ff9f8942a941d7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ffbaabd739e372/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/budget/yk26-ffbaabd739e372/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/categories/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/categories/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/1/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/1/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/10/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/10/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/11/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/11/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/12/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/12/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/13/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/13/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/14/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/14/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/2/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/2/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/3/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/3/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/4/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/4/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/5/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/5/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/6/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/6/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/7/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/7/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/8/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/8/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/9/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/9/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/99/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/category/99/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/original/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/original/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/trial/data.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/id/sample/road-safety/trial/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/metadata.json",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/projects.csv",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/reuse.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/sample.jsonld",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/sample.ttl",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "open-data/vocab/index.html",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "policy-map.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "policy-map.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "registry-model.js",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "registry.js",
+      "kind": "api-reference"
+    },
+    {
+      "path": "registry.js",
+      "kind": "old-site-reference"
+    },
+    {
+      "path": "registry.js",
+      "kind": "root-reference"
+    },
+    {
+      "path": "workflow-ui.js",
+      "kind": "root-reference"
+    }
+  ],
+  "releaseReady": false,
+  "note": "Reference scan is advisory, not a runtime or secret audit. Review every occurrence; preserve provenance URLs."
+}
